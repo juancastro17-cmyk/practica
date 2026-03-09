@@ -1,0 +1,44 @@
+body {
+  margin:0;
+  padding:0;
+}
+  
+  
+  
+  
+  
+  
+  
+ nav {
+   background-color:Black;
+   height:50px;
+   display:flex;
+   justify-content:space-between;
+ }
+ 
+ 
+ nav a {
+   color:white;
+   text-decoration:none;
+   Margin:auto;
+ }
+ 
+ nav a:link {
+   color:beige;
+ }
+ 
+ nav a:visited {
+   color:gray;
+ }
+ nav a:hover {
+   color:silver;
+ }
+ 
+ .galeria{
+   width:200px;
+ }
+   
+ 
+   
+  
+  
